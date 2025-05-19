@@ -73,14 +73,8 @@ In many underserved areas, **decisions are made blindly** due to a lack of actio
 Do you work in education, humanitarian tech, or social impact analytics?  
 Looking to deploy smart dashboards in your organization?
 
-📩 Reach out: [abdiasarsene@gmail.com]  
-🔗 LinkedIn: [Abdias Arsène. Z 📊📈](https://www.linkedin.com/in/abdias-arsene)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+* 📩 Reach out: [abdiasarsene@gmail.com]  
+* 🔗 LinkedIn: [Abdias Arsène. Z 📊📈](https://www.linkedin.com/in/abdias-arsene)
 
 ---
 
